@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment1/src/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/Rasterizer.dir/main.cpp.o -c /home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment1/src/main.cpp",
+  "file": "/home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment1/src/main.cpp",
+  "output": "CMakeFiles/Rasterizer.dir/main.cpp.o"
+},
+{
+  "directory": "/home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment1/src/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/Rasterizer.dir/rasterizer.cpp.o -c /home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment1/src/rasterizer.cpp",
+  "file": "/home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment1/src/rasterizer.cpp",
+  "output": "CMakeFiles/Rasterizer.dir/rasterizer.cpp.o"
+},
+{
+  "directory": "/home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment1/src/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/Rasterizer.dir/Triangle.cpp.o -c /home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment1/src/Triangle.cpp",
+  "file": "/home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment1/src/Triangle.cpp",
+  "output": "CMakeFiles/Rasterizer.dir/Triangle.cpp.o"
+}
+]

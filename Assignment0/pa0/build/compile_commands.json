@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment0/pa0/build",
+  "command": "/usr/bin/g++  -I/home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment0/pa0/EIGEN3_INCLUDE_DIR -g -o CMakeFiles/Transformation.dir/main.cpp.o -c /home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment0/pa0/main.cpp",
+  "file": "/home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment0/pa0/main.cpp",
+  "output": "CMakeFiles/Transformation.dir/main.cpp.o"
+}
+]

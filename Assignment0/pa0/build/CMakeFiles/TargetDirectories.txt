@@ -1,0 +1,3 @@
+/home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment0/pa0/build/CMakeFiles/Transformation.dir
+/home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment0/pa0/build/CMakeFiles/edit_cache.dir
+/home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment0/pa0/build/CMakeFiles/rebuild_cache.dir

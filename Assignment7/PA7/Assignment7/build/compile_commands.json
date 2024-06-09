@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment7/PA7/Assignment7/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/RayTracing.dir/main.cpp.o -c /home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment7/PA7/Assignment7/main.cpp",
+  "file": "/home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment7/PA7/Assignment7/main.cpp",
+  "output": "CMakeFiles/RayTracing.dir/main.cpp.o"
+},
+{
+  "directory": "/home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment7/PA7/Assignment7/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/RayTracing.dir/Vector.cpp.o -c /home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment7/PA7/Assignment7/Vector.cpp",
+  "file": "/home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment7/PA7/Assignment7/Vector.cpp",
+  "output": "CMakeFiles/RayTracing.dir/Vector.cpp.o"
+},
+{
+  "directory": "/home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment7/PA7/Assignment7/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/RayTracing.dir/Scene.cpp.o -c /home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment7/PA7/Assignment7/Scene.cpp",
+  "file": "/home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment7/PA7/Assignment7/Scene.cpp",
+  "output": "CMakeFiles/RayTracing.dir/Scene.cpp.o"
+},
+{
+  "directory": "/home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment7/PA7/Assignment7/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/RayTracing.dir/BVH.cpp.o -c /home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment7/PA7/Assignment7/BVH.cpp",
+  "file": "/home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment7/PA7/Assignment7/BVH.cpp",
+  "output": "CMakeFiles/RayTracing.dir/BVH.cpp.o"
+},
+{
+  "directory": "/home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment7/PA7/Assignment7/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/RayTracing.dir/Renderer.cpp.o -c /home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment7/PA7/Assignment7/Renderer.cpp",
+  "file": "/home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment7/PA7/Assignment7/Renderer.cpp",
+  "output": "CMakeFiles/RayTracing.dir/Renderer.cpp.o"
+}
+]

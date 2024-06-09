@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment5/Code/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -Wall -Wextra -pedantic -Wshadow -Wreturn-type -fsanitize=undefined -o CMakeFiles/RayTracing.dir/main.cpp.o -c /home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment5/Code/main.cpp",
+  "file": "/home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment5/Code/main.cpp",
+  "output": "CMakeFiles/RayTracing.dir/main.cpp.o"
+},
+{
+  "directory": "/home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment5/Code/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -Wall -Wextra -pedantic -Wshadow -Wreturn-type -fsanitize=undefined -o CMakeFiles/RayTracing.dir/Scene.cpp.o -c /home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment5/Code/Scene.cpp",
+  "file": "/home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment5/Code/Scene.cpp",
+  "output": "CMakeFiles/RayTracing.dir/Scene.cpp.o"
+},
+{
+  "directory": "/home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment5/Code/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -Wall -Wextra -pedantic -Wshadow -Wreturn-type -fsanitize=undefined -o CMakeFiles/RayTracing.dir/Renderer.cpp.o -c /home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment5/Code/Renderer.cpp",
+  "file": "/home/majq/Lecture/Graphics/GAMES/GAMES101/Assignment5/Code/Renderer.cpp",
+  "output": "CMakeFiles/RayTracing.dir/Renderer.cpp.o"
+}
+]
